@@ -1,0 +1,520 @@
+
+
+Class diffwave has 1000 files.
+Class gt has 1250 files.
+Class melgan has 1000 files.
+Class parallel_wave_gan has 1000 files.
+Class wavegrad has 1000 files.
+Class wavenet has 1000 files.
+Class wavernn has 1000 files.
+ Total files found: 7250
+ Updated class counts: {'diffwave': 1000, 'gt': 1250, 'melgan': 1000, 'parallel_wave_gan': 1000, 'wavegrad': 1000, 'wavenet': 1000, 'wavernn': 1000}
+
+----------------------------- File Dictionary Setup Complete ------------------------------
+
+
+=============================== Setting Up Data Loaders ===============================
+
+Total dataset size: 7250 samples
+Split ratios - Train: 0.7, Valid: 0.15, Test: 0.15
+
+Class 'diffwave' (index 0) has 1000 samples.
+Class 'gt' (index 1) has 1250 samples.
+Class 'melgan' (index 2) has 1000 samples.
+Class 'parallel_wave_gan' (index 3) has 1000 samples.
+Class 'wavegrad' (index 4) has 1000 samples.
+Class 'wavenet' (index 5) has 1000 samples.
+Class 'wavernn' (index 6) has 1000 samples.
+
+Split sizes - Train: 5075, Valid: 1087, Test: 1088
+Training labels distribution: [700 875 700 700 700 700 700]
+Validation labels distribution: [150 187 150 150 150 150 150]
+Testing labels distribution: [150 188 150 150 150 150 150]
+
+Class weights (computed from training data):
+  Class 0 (diffwave, 700 samples): 1.0357
+  Class 1 (gt, 875 samples): 0.8286
+  Class 2 (melgan, 700 samples): 1.0357
+  Class 3 (parallel_wave_gan, 700 samples): 1.0357
+  Class 4 (wavegrad, 700 samples): 1.0357
+  Class 5 (wavenet, 700 samples): 1.0357
+  Class 6 (wavernn, 700 samples): 1.0357
+
+
+=============================== Fitting StandardScaler on Training Data ===============================
+
+Using 100 samples (out of 5075) for scaler fitting
+Fitting scaler on 4400 feature vectors (shape: (4400, 40))
+StandardScaler fitted on 100 training samples
+
+----------------------------- StandardScaler Fitting Complete ------------------------------
+
+DataLoaders created successfully!
+  Training batches: 318
+  Validation batches: 68
+  Testing batches: 68
+
+----------------------------- Data Loaders Setup Complete -----------------------------
+
+
+=============================== Starting MiBiLSTM Training ===============================
+
+Epoch 1 completed in 1.9965 minutes.                                                                                                   
+Epoch [1/200], Train Loss: 1.8001, Train Acc: 27.57%, Val Loss: 1.7443, Val Accuracy: 31.00%
+  Per-Class Validation Accuracy:
+    diffwave: 23.33% (35/150)
+    gt: 12.30% (23/187)
+    melgan: 50.67% (76/150)
+    parallel_wave_gan: 11.33% (17/150)
+    wavegrad: 47.33% (71/150)
+    wavenet: 19.33% (29/150)
+    wavernn: 57.33% (86/150)
+Epoch 2 completed in 2.0533 minutes.                                                                                                   
+Epoch [2/200], Train Loss: 1.5492, Train Acc: 44.49%, Val Loss: 1.3012, Val Accuracy: 60.07%
+  Per-Class Validation Accuracy:
+    diffwave: 58.00% (87/150)
+    gt: 47.59% (89/187)
+    melgan: 19.33% (29/150)
+    parallel_wave_gan: 80.00% (120/150)
+    wavegrad: 90.00% (135/150)
+    wavenet: 30.00% (45/150)
+    wavernn: 98.67% (148/150)
+Epoch 3 completed in 2.0709 minutes.                                                                                                   
+Epoch [3/200], Train Loss: 1.1291, Train Acc: 68.97%, Val Loss: 0.9058, Val Accuracy: 80.77%
+  Per-Class Validation Accuracy:
+    diffwave: 93.33% (140/150)
+    gt: 46.52% (87/187)
+    melgan: 64.00% (96/150)
+    parallel_wave_gan: 95.33% (143/150)
+    wavegrad: 98.00% (147/150)
+    wavenet: 78.00% (117/150)
+    wavernn: 98.67% (148/150)
+Epoch 4 completed in 2.0932 minutes.                                                                                                   
+Epoch [4/200], Train Loss: 0.8748, Train Acc: 84.00%, Val Loss: 0.7358, Val Accuracy: 91.90%
+  Per-Class Validation Accuracy:
+    diffwave: 90.67% (136/150)
+    gt: 73.26% (137/187)
+    melgan: 95.33% (143/150)
+    parallel_wave_gan: 98.67% (148/150)
+    wavegrad: 99.33% (149/150)
+    wavenet: 92.00% (138/150)
+    wavernn: 98.67% (148/150)
+Epoch 5 completed in 1.9419 minutes.                                                                                                   
+Epoch [5/200], Train Loss: 0.7553, Train Acc: 90.27%, Val Loss: 0.6709, Val Accuracy: 93.38%
+  Per-Class Validation Accuracy:
+    diffwave: 94.67% (142/150)
+    gt: 75.40% (141/187)
+    melgan: 96.00% (144/150)
+    parallel_wave_gan: 98.67% (148/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.00% (141/150)
+    wavernn: 99.33% (149/150)
+Epoch 6 completed in 2.2390 minutes.                                                                                                   
+Epoch [6/200], Train Loss: 0.6984, Train Acc: 92.99%, Val Loss: 0.6710, Val Accuracy: 91.72%
+  Per-Class Validation Accuracy:
+    diffwave: 91.33% (137/150)
+    gt: 70.59% (132/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 98.00% (147/150)
+    wavegrad: 98.67% (148/150)
+    wavenet: 92.67% (139/150)
+    wavernn: 96.67% (145/150)
+Epoch 7 completed in 2.2300 minutes.                                                                                                   
+Epoch [7/200], Train Loss: 0.6612, Train Acc: 94.86%, Val Loss: 0.6168, Val Accuracy: 95.22%
+  Per-Class Validation Accuracy:
+    diffwave: 98.00% (147/150)
+    gt: 82.35% (154/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 98.67% (148/150)
+    wavegrad: 99.33% (149/150)
+    wavenet: 92.00% (138/150)
+    wavernn: 100.00% (150/150)
+Epoch 8 completed in 2.1954 minutes.                                                                                                   
+Epoch [8/200], Train Loss: 0.6367, Train Acc: 95.84%, Val Loss: 0.6107, Val Accuracy: 95.77%
+  Per-Class Validation Accuracy:
+    diffwave: 98.67% (148/150)
+    gt: 80.21% (150/187)
+    melgan: 98.00% (147/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 99.33% (149/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 9 completed in 2.1649 minutes.                                                                                                   
+Epoch [9/200], Train Loss: 0.6211, Train Acc: 96.16%, Val Loss: 0.6112, Val Accuracy: 96.04%
+  Per-Class Validation Accuracy:
+    diffwave: 96.00% (144/150)
+    gt: 83.42% (156/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 99.33% (149/150)
+    wavegrad: 98.67% (148/150)
+    wavenet: 99.33% (149/150)
+    wavernn: 99.33% (149/150)
+Epoch 10 completed in 2.1255 minutes.                                                                                                  
+Epoch [10/200], Train Loss: 0.6042, Train Acc: 96.81%, Val Loss: 0.5878, Val Accuracy: 96.32%
+  Per-Class Validation Accuracy:
+    diffwave: 98.67% (148/150)
+    gt: 86.63% (162/187)
+    melgan: 98.67% (148/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.00% (141/150)
+    wavernn: 98.67% (148/150)
+Epoch 11 completed in 2.1839 minutes.                                                                                                  
+Epoch [11/200], Train Loss: 0.5968, Train Acc: 96.93%, Val Loss: 0.5842, Val Accuracy: 96.78%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 85.03% (159/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 99.33% (149/150)
+    wavegrad: 99.33% (149/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 12 completed in 2.2049 minutes.                                                                                                  
+Epoch [12/200], Train Loss: 0.5816, Train Acc: 97.95%, Val Loss: 0.5656, Val Accuracy: 96.87%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 86.63% (162/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 99.33% (149/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 98.00% (147/150)
+Epoch 13 completed in 1.8088 minutes.                                                                                                  
+Epoch [13/200], Train Loss: 0.5753, Train Acc: 98.07%, Val Loss: 0.5573, Val Accuracy: 97.52%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 89.30% (167/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 99.33% (149/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 98.67% (148/150)
+Epoch 14 completed in 1.8129 minutes.                                                                                                  
+Epoch [14/200], Train Loss: 0.5672, Train Acc: 98.42%, Val Loss: 0.5645, Val Accuracy: 97.52%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 88.24% (165/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 99.33% (149/150)
+    wavernn: 98.67% (148/150)
+Epoch 15 completed in 1.8359 minutes.                                                                                                  
+Epoch [15/200], Train Loss: 0.5630, Train Acc: 98.42%, Val Loss: 0.5487, Val Accuracy: 97.61%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 89.30% (167/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 99.33% (149/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 16 completed in 1.6981 minutes.                                                                                                  
+Epoch [16/200], Train Loss: 0.5561, Train Acc: 98.74%, Val Loss: 0.5668, Val Accuracy: 97.24%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 88.77% (166/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 98.67% (148/150)
+    wavegrad: 99.33% (149/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 17 completed in 1.7107 minutes.                                                                                                  
+Epoch [17/200], Train Loss: 0.5512, Train Acc: 98.90%, Val Loss: 0.5553, Val Accuracy: 97.61%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 88.77% (166/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 18 completed in 1.6776 minutes.                                                                                                  
+Epoch [18/200], Train Loss: 0.5473, Train Acc: 98.98%, Val Loss: 0.5482, Val Accuracy: 98.07%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 93.05% (174/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 19 completed in 1.5832 minutes.                                                                                                  
+Epoch [19/200], Train Loss: 0.5414, Train Acc: 99.19%, Val Loss: 0.5517, Val Accuracy: 98.07%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 92.51% (173/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 98.67% (148/150)
+Epoch 20 completed in 1.7213 minutes.                                                                                                  
+Epoch [20/200], Train Loss: 0.5395, Train Acc: 99.19%, Val Loss: 0.5495, Val Accuracy: 98.07%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 91.98% (172/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 21 completed in 1.5969 minutes.                                                                                                  
+Epoch [21/200], Train Loss: 0.5360, Train Acc: 99.29%, Val Loss: 0.5491, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 89.84% (168/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 22 completed in 1.6434 minutes.                                                                                                  
+Epoch [22/200], Train Loss: 0.5338, Train Acc: 99.23%, Val Loss: 0.5385, Val Accuracy: 97.88%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 91.98% (172/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 99.33% (149/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+
+*** Early stopping triggered: Validation loss 0.5385 < 0.54 or Validation accuracy 97.88% >= 98.3% ***
+*** Training completed at epoch 22/200 ***
+
+
+---------------------------- MiBiLSTM Training Complete ----------------------------
+
+
+=============================== Saving Model ===============================
+
+Model saved successfully to: /LibriSeVoc/MiBI_LSTM_V1.pth
+
+---------------------------- Model Save Complete ----------------------------
+
+
+=============================== Plotting Training Curves ===============================
+
+
+---------------------------- Training Curves Plotted ----------------------------
+
+
+=============================== Sample Count Diagramming ===============================
+
+ 
+---------------------------- Sample Count Diagramming Complete ----------------------------
+
+
+=============================== Optimizer, Loss Function, and Model Architecture ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V1.pth
+Model loaded successfully.
+
+Chosen Optimizer: <class 'torch.optim.adam.Adam'>
+Chosen Loss Function: CrossEntropyLoss()
+
+Number of Parameters (Gradients): 1646089
+Number of Parameters (All): 1646089
+
+Model Architecture: DeepFakeDetectorGraphsAndStats(
+  (_BatchLossAndOptimization__loss): CrossEntropyLoss()
+  (MiBiLSTM_1): MiBiLSTM(
+    (layers): ModuleList(
+      (0): ModuleDict(
+        (linear_fih): Linear(in_features=40, out_features=768, bias=True)
+        (dropout): Dropout(p=0.0, inplace=False)
+        (linear_fih_backward): Linear(in_features=40, out_features=768, bias=True)
+      )
+    )
+  )
+  (ReLU_1): PReLU(num_parameters=1)
+  (dropout1): Dropout(p=0.6, inplace=False)
+  (MiBiLSTM_2): MiBiLSTM(
+    (layers): ModuleList(
+      (0): ModuleDict(
+        (linear_fih): Linear(in_features=512, out_features=1536, bias=True)
+        (dropout): Dropout(p=0.0, inplace=False)
+        (linear_fih_backward): Linear(in_features=512, out_features=1536, bias=True)
+      )
+    )
+  )
+  (ReLU_2): PReLU(num_parameters=1)
+  (dropout2): Dropout(p=0.6, inplace=False)
+  (fc): Linear(in_features=1024, out_features=7, bias=True)
+)
+
+---------------------------- Optimizer, Loss Function, and Architecture Complete ----------------------------
+
+
+=============================== Evaluating Model on Test Set ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V1.pth
+Model loaded successfully.
+
+                                                                                                                                       
+Test Results:
+  Average Loss: 0.5306
+  Overall Accuracy: 98.99% (1077/1088)
+
+Per-Class Accuracy:
+  diffwave: 100.00% (150/150)
+  gt: 95.21% (179/188)
+  melgan: 100.00% (150/150)
+  parallel_wave_gan: 100.00% (150/150)
+  wavegrad: 100.00% (150/150)
+  wavenet: 98.67% (148/150)
+  wavernn: 100.00% (150/150)
+
+---------------------------- Model Evaluation Complete ----------------------------
+
+
+=============================== Creating t-SNE Scatter Plot ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V1.pth
+Model loaded successfully.
+
+Generating Features for t-SNE Plot: 100%|██████████████████████████████████████████████████████████| 68/68 [00:15<00:00,  4.40batch/s] 
+Feature shape: (1088, 1024)
+Applying t-SNE to reduce 1024 dimensions to 2D...
+
+---------------------------- t-SNE Scatter Plot Creation Complete ----------------------------
+
+
+=============================== Creating Confusion Matrix ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V1.pth
+Model loaded successfully.
+
+
+=============================== Setting Up Data Loaders ===============================
+
+Total dataset size: 7250 samples
+Split ratios - Train: 0.7, Valid: 0.15, Test: 0.15
+
+Class 'diffwave' (index 0) has 1000 samples.
+Class 'gt' (index 1) has 1250 samples.
+Class 'melgan' (index 2) has 1000 samples.
+Class 'parallel_wave_gan' (index 3) has 1000 samples.
+Class 'wavegrad' (index 4) has 1000 samples.
+Class 'wavenet' (index 5) has 1000 samples.
+Class 'wavernn' (index 6) has 1000 samples.
+
+Split sizes - Train: 5075, Valid: 1087, Test: 1088
+Training labels distribution: [700 875 700 700 700 700 700]
+Validation labels distribution: [150 187 150 150 150 150 150]
+Testing labels distribution: [150 188 150 150 150 150 150]
+
+Class weights (computed from training data):
+  Class 0 (diffwave, 700 samples): 1.0357
+  Class 1 (gt, 875 samples): 0.8286
+  Class 2 (melgan, 700 samples): 1.0357
+  Class 3 (parallel_wave_gan, 700 samples): 1.0357
+  Class 4 (wavegrad, 700 samples): 1.0357
+  Class 5 (wavenet, 700 samples): 1.0357
+  Class 6 (wavernn, 700 samples): 1.0357
+
+
+=============================== Fitting StandardScaler on Training Data ===============================
+
+Using 100 samples (out of 5075) for scaler fitting
+Fitting scaler on 4400 feature vectors (shape: (4400, 40))
+StandardScaler fitted on 100 training samples
+
+----------------------------- StandardScaler Fitting Complete ------------------------------
+
+DataLoaders created successfully!
+  Training batches: 318
+  Validation batches: 68
+  Testing batches: 68
+
+----------------------------- Data Loaders Setup Complete -----------------------------
+
+Generating Confusion Matrix: 100%|█████████████████████████████████████████████████████████████████| 68/68 [00:13<00:00,  4.96batch/s] 
+
+---------------------------- Confusion Matrix Creation Complete ----------------------------
+
+
+=============================== Creating Classification Report ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V1.pth
+Model loaded successfully.
+
+Classification Report:
+
+                   precision    recall  f1-score   support
+
+         diffwave       0.99      1.00      1.00       150
+               gt       0.99      0.95      0.97       188
+           melgan       0.99      1.00      0.99       150
+parallel_wave_gan       0.99      1.00      1.00       150
+         wavegrad       0.99      1.00      1.00       150
+          wavenet       1.00      0.99      0.99       150
+          wavernn       0.97      1.00      0.99       150
+
+         accuracy                           0.99      1088
+        macro avg       0.99      0.99      0.99      1088
+     weighted avg       0.99      0.99      0.99      1088
+
+
+---------------------------- Classification Report Creation Complete ----------------------------
+
+
+=============================== Plotting ROC Curve with EER ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V1.pth
+Model loaded successfully.
+
+
+=============================== Setting Up Data Loaders ===============================
+
+Total dataset size: 7250 samples
+Split ratios - Train: 0.7, Valid: 0.15, Test: 0.15
+
+Class 'diffwave' (index 0) has 1000 samples.
+Class 'gt' (index 1) has 1250 samples.
+Class 'melgan' (index 2) has 1000 samples.
+Class 'parallel_wave_gan' (index 3) has 1000 samples.
+Class 'wavegrad' (index 4) has 1000 samples.
+Class 'wavenet' (index 5) has 1000 samples.
+Class 'wavernn' (index 6) has 1000 samples.
+
+Split sizes - Train: 5075, Valid: 1087, Test: 1088
+Training labels distribution: [700 875 700 700 700 700 700]
+Validation labels distribution: [150 187 150 150 150 150 150]
+Testing labels distribution: [150 188 150 150 150 150 150]
+
+Class weights (computed from training data):
+  Class 0 (diffwave, 700 samples): 1.0357
+  Class 1 (gt, 875 samples): 0.8286
+  Class 2 (melgan, 700 samples): 1.0357
+  Class 3 (parallel_wave_gan, 700 samples): 1.0357
+  Class 4 (wavegrad, 700 samples): 1.0357
+  Class 5 (wavenet, 700 samples): 1.0357
+  Class 6 (wavernn, 700 samples): 1.0357
+
+
+=============================== Fitting StandardScaler on Training Data ===============================
+
+Using 100 samples (out of 5075) for scaler fitting
+Fitting scaler on 4400 feature vectors (shape: (4400, 40))
+StandardScaler fitted on 100 training samples
+
+----------------------------- StandardScaler Fitting Complete ------------------------------
+
+DataLoaders created successfully!
+  Training batches: 318
+  Validation batches: 68
+  Testing batches: 68
+
+----------------------------- Data Loaders Setup Complete -----------------------------
+
+Generating ROC Predictions: 100%|██████████████████████████████████████████████████████████████████| 68/68 [00:13<00:00,  5.08batch/s] 
+ROC Curve Statistics:
+--------------------------------------------
+  Area Under Curve (AUC): 0.9978
+  Equal Error Rate (EER): 0.0278 (2.78%)
+  EER Threshold: 0.8212
+--------------------------------------------
+
+---------------------------- ROC Curve with EER Complete ----------------------------

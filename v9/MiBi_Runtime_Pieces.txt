@@ -1,0 +1,2579 @@
+Epoch 28 completed in 1.4787 minutes.                                                                                                                                                   
+Epoch [28/300], Train Loss: 0.8530, Train Acc: 99.35%, Val Loss: 0.8543, Val Accuracy: 97.88%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 91.44% (171/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 98.67% (148/150)
+Epoch 29 completed in 1.3596 minutes.                                                                                                                                                   
+Epoch [29/300], Train Loss: 0.8557, Train Acc: 99.35%, Val Loss: 0.8711, Val Accuracy: 97.79%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 90.91% (170/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 98.67% (148/150)
+Epoch 30 completed in 1.2713 minutes.                                                                                                                                                   
+Epoch [30/300], Train Loss: 0.8505, Train Acc: 99.49%, Val Loss: 0.8586, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 92.51% (173/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 98.67% (148/150)
+Epoch 31 completed in 1.3066 minutes.                                                                                                                                                   
+Epoch [31/300], Train Loss: 0.8487, Train Acc: 99.47%, Val Loss: 0.8629, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 91.98% (172/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 32 completed in 1.4049 minutes.                                                                                                                                                   
+Epoch [32/300], Train Loss: 0.8494, Train Acc: 99.55%, Val Loss: 0.8612, Val Accuracy: 98.07%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 91.44% (171/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 33 completed in 1.3686 minutes.                                                                                                                                                   
+Epoch [33/300], Train Loss: 0.8462, Train Acc: 99.57%, Val Loss: 0.8605, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 90.91% (170/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 34 completed in 1.4082 minutes.                                                                                                                                                   
+Epoch [34/300], Train Loss: 0.8463, Train Acc: 99.57%, Val Loss: 0.8629, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 91.98% (172/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 98.00% (147/150)
+Epoch 35 completed in 1.4178 minutes.                                                                                                                                                   
+Epoch [35/300], Train Loss: 0.8439, Train Acc: 99.49%, Val Loss: 0.8535, Val Accuracy: 98.25%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 92.51% (173/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 36 completed in 1.3969 minutes.                                                                                                                                                   
+Epoch [36/300], Train Loss: 0.8451, Train Acc: 99.55%, Val Loss: 0.8601, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 89.84% (168/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 99.33% (149/150)
+    wavernn: 98.67% (148/150)
+Epoch 37 completed in 1.4058 minutes.                                                                                                                                                   
+Epoch [37/300], Train Loss: 0.8412, Train Acc: 99.61%, Val Loss: 0.8540, Val Accuracy: 98.16%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 91.44% (171/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 99.33% (149/150)
+    wavernn: 98.67% (148/150)
+Epoch 38 completed in 1.3747 minutes.                                                                                                                                                   
+Epoch [38/300], Train Loss: 0.8403, Train Acc: 99.65%, Val Loss: 0.8493, Val Accuracy: 98.25%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 92.51% (173/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 39 completed in 1.4670 minutes.                                                                                                                                                   
+Epoch [39/300], Train Loss: 0.8402, Train Acc: 99.53%, Val Loss: 0.8632, Val Accuracy: 98.16%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 91.44% (171/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 40 completed in 1.4342 minutes.                                                                                                                                                   
+Epoch [40/300], Train Loss: 0.8401, Train Acc: 99.65%, Val Loss: 0.8585, Val Accuracy: 97.61%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 89.84% (168/187)
+    melgan: 98.67% (148/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 41 completed in 1.4457 minutes.                                                                                                                                                   
+Epoch [41/300], Train Loss: 0.8389, Train Acc: 99.68%, Val Loss: 0.8556, Val Accuracy: 97.88%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 90.37% (169/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 99.33% (149/150)
+Epoch 42 completed in 1.5462 minutes.                                                                                                                                                   
+Epoch [42/300], Train Loss: 0.8362, Train Acc: 99.72%, Val Loss: 0.8552, Val Accuracy: 98.25%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 92.51% (173/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 43 completed in 1.5655 minutes.                                                                                                                                                   
+Epoch [43/300], Train Loss: 0.8350, Train Acc: 99.78%, Val Loss: 0.8533, Val Accuracy: 98.07%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.05% (174/187)
+    melgan: 98.00% (147/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 44 completed in 1.4291 minutes.                                                                                                                                                   
+Epoch [44/300], Train Loss: 0.8344, Train Acc: 99.67%, Val Loss: 0.8577, Val Accuracy: 98.53%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 91.98% (172/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 100.00% (150/150)
+    wavernn: 99.33% (149/150)
+Epoch 45 completed in 1.4241 minutes.                                                                                                                                                   
+Epoch [45/300], Train Loss: 0.8339, Train Acc: 99.70%, Val Loss: 0.8636, Val Accuracy: 98.25%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 92.51% (173/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 46 completed in 1.4214 minutes.                                                                                                                                                   
+Epoch [46/300], Train Loss: 0.8332, Train Acc: 99.67%, Val Loss: 0.8568, Val Accuracy: 98.44%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.05% (174/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 47 completed in 1.4890 minutes.                                                                                                                                                   
+Epoch [47/300], Train Loss: 0.8304, Train Acc: 99.84%, Val Loss: 0.8667, Val Accuracy: 98.16%
+  Per-Class Validation Accuracy:
+    diffwave: 99.33% (149/150)
+    gt: 94.12% (176/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 100.00% (150/150)
+Epoch 48 completed in 1.4217 minutes.                                                                                                                                                   
+Epoch [48/300], Train Loss: 0.8319, Train Acc: 99.84%, Val Loss: 0.8563, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 91.44% (171/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 49 completed in 1.4000 minutes.                                                                                                                                                   
+Epoch [49/300], Train Loss: 0.8279, Train Acc: 99.90%, Val Loss: 0.8584, Val Accuracy: 98.25%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 90.91% (170/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 99.33% (149/150)
+    wavernn: 100.00% (150/150)
+Epoch 50 completed in 1.5142 minutes.                                                                                                                                                   
+Epoch [50/300], Train Loss: 0.8282, Train Acc: 99.86%, Val Loss: 0.8519, Val Accuracy: 98.53%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.12% (176/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 51 completed in 1.3652 minutes.                                                                                                                                                   
+Epoch [51/300], Train Loss: 0.8278, Train Acc: 99.86%, Val Loss: 0.8637, Val Accuracy: 98.07%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.05% (174/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 52 completed in 1.3055 minutes.                                                                                                                                                   
+Epoch [52/300], Train Loss: 0.8274, Train Acc: 99.84%, Val Loss: 0.8608, Val Accuracy: 98.44%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.05% (174/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 53 completed in 1.2922 minutes.                                                                                                                                                   
+Epoch [53/300], Train Loss: 0.8265, Train Acc: 99.82%, Val Loss: 0.8633, Val Accuracy: 98.44%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.58% (175/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 54 completed in 1.4441 minutes.                                                                                                                                                   
+Epoch [54/300], Train Loss: 0.8268, Train Acc: 99.80%, Val Loss: 0.8681, Val Accuracy: 98.53%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.58% (175/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 55 completed in 1.2825 minutes.                                                                                                                                                   
+Epoch [55/300], Train Loss: 0.8261, Train Acc: 99.86%, Val Loss: 0.8547, Val Accuracy: 98.44%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.05% (174/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 56 completed in 1.2682 minutes.                                                                                                                                                   
+Epoch [56/300], Train Loss: 0.8234, Train Acc: 99.92%, Val Loss: 0.8582, Val Accuracy: 98.34%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.58% (175/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 57 completed in 1.2949 minutes.                                                                                                                                                   
+Epoch [57/300], Train Loss: 0.8253, Train Acc: 99.82%, Val Loss: 0.8500, Val Accuracy: 98.53%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 93.58% (175/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 58 completed in 1.2975 minutes.                                                                                                                                                   
+Epoch [58/300], Train Loss: 0.8256, Train Acc: 99.78%, Val Loss: 0.8635, Val Accuracy: 97.98%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 92.51% (173/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 99.33% (149/150)
+Epoch 59 completed in 1.3459 minutes.                                                                                                                                                   
+Epoch [59/300], Train Loss: 0.8214, Train Acc: 99.92%, Val Loss: 0.8490, Val Accuracy: 98.44%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.65% (177/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 60 completed in 1.3805 minutes.                                                                                                                                                   
+Epoch [60/300], Train Loss: 0.8221, Train Acc: 99.92%, Val Loss: 0.8493, Val Accuracy: 98.44%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.12% (176/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 61 completed in 1.3395 minutes.                                                                                                                                                   
+Epoch [61/300], Train Loss: 0.8227, Train Acc: 99.94%, Val Loss: 0.8557, Val Accuracy: 98.53%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.65% (177/187)
+    melgan: 98.67% (148/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 62 completed in 1.3239 minutes.                                                                                                                                                   
+Epoch [62/300], Train Loss: 0.8203, Train Acc: 99.94%, Val Loss: 0.8450, Val Accuracy: 98.62%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.19% (178/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 63 completed in 1.3558 minutes.                                                                                                                                                   
+Epoch [63/300], Train Loss: 0.8205, Train Acc: 99.90%, Val Loss: 0.8651, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.19% (178/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 64 completed in 1.3455 minutes.                                                                                                                                                   
+Epoch [64/300], Train Loss: 0.8211, Train Acc: 99.88%, Val Loss: 0.8571, Val Accuracy: 98.53%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 65 completed in 1.2431 minutes.                                                                                                                                                   
+Epoch [65/300], Train Loss: 0.8197, Train Acc: 99.86%, Val Loss: 0.8611, Val Accuracy: 98.53%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.65% (177/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 66 completed in 1.4547 minutes.                                                                                                                                                   
+Epoch [66/300], Train Loss: 0.8182, Train Acc: 99.92%, Val Loss: 0.8669, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 67 completed in 1.4726 minutes.                                                                                                                                                   
+Epoch [67/300], Train Loss: 0.8181, Train Acc: 99.94%, Val Loss: 0.8511, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.19% (178/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 68 completed in 1.3702 minutes.                                                                                                                                                   
+Epoch [68/300], Train Loss: 0.8175, Train Acc: 99.94%, Val Loss: 0.8563, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.65% (177/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 69 completed in 1.2817 minutes.                                                                                                                                                   
+Epoch [69/300], Train Loss: 0.8180, Train Acc: 99.90%, Val Loss: 0.8574, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.12% (176/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 70 completed in 1.2300 minutes.                                                                                                                                                   
+Epoch [70/300], Train Loss: 0.8166, Train Acc: 99.94%, Val Loss: 0.8515, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 99.33% (149/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 71 completed in 1.2210 minutes.                                                                                                                                                   
+Epoch [71/300], Train Loss: 0.8154, Train Acc: 99.94%, Val Loss: 0.8620, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.19% (178/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 72 completed in 1.2384 minutes.                                                                                                                                                   
+Epoch [72/300], Train Loss: 0.8149, Train Acc: 99.96%, Val Loss: 0.8622, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 73 completed in 1.3784 minutes.                                                                                                                                                   
+Epoch [73/300], Train Loss: 0.8155, Train Acc: 99.90%, Val Loss: 0.8486, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 74 completed in 1.2337 minutes.                                                                                                                                                   
+Epoch [74/300], Train Loss: 0.8163, Train Acc: 99.90%, Val Loss: 0.8485, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 75 completed in 1.2640 minutes.                                                                                                                                                   
+Epoch [75/300], Train Loss: 0.8146, Train Acc: 99.94%, Val Loss: 0.8524, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 76 completed in 1.2506 minutes.                                                                                                                                                   
+Epoch [76/300], Train Loss: 0.8150, Train Acc: 99.98%, Val Loss: 0.8503, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.19% (178/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 77 completed in 1.2910 minutes.                                                                                                                                                   
+Epoch [77/300], Train Loss: 0.8137, Train Acc: 99.98%, Val Loss: 0.8533, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 98.67% (148/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 78 completed in 1.3777 minutes.                                                                                                                                                   
+Epoch [78/300], Train Loss: 0.8135, Train Acc: 99.94%, Val Loss: 0.8669, Val Accuracy: 98.62%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 99.33% (149/150)
+Epoch 79 completed in 1.3775 minutes.                                                                                                                                                   
+Epoch [79/300], Train Loss: 0.8120, Train Acc: 99.94%, Val Loss: 0.8495, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.65% (177/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 80 completed in 1.3718 minutes.                                                                                                                                                   
+Epoch [80/300], Train Loss: 0.8145, Train Acc: 99.86%, Val Loss: 0.8548, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 81 completed in 1.3720 minutes.                                                                                                                                                   
+Epoch [81/300], Train Loss: 0.8125, Train Acc: 99.90%, Val Loss: 0.8510, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 99.33% (149/150)
+Epoch 82 completed in 1.3503 minutes.                                                                                                                                                   
+Epoch [82/300], Train Loss: 0.8138, Train Acc: 99.96%, Val Loss: 0.8512, Val Accuracy: 98.62%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.12% (176/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 83 completed in 1.3569 minutes.                                                                                                                                                   
+Epoch [83/300], Train Loss: 0.8123, Train Acc: 99.98%, Val Loss: 0.8667, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 84 completed in 1.3667 minutes.                                                                                                                                                   
+Epoch [84/300], Train Loss: 0.8117, Train Acc: 99.98%, Val Loss: 0.8472, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 85 completed in 1.3673 minutes.                                                                                                                                                   
+Epoch [85/300], Train Loss: 0.8113, Train Acc: 99.98%, Val Loss: 0.8559, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 94.65% (177/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 86 completed in 1.3584 minutes.                                                                                                                                                   
+Epoch [86/300], Train Loss: 0.8109, Train Acc: 99.94%, Val Loss: 0.8592, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 87 completed in 1.3280 minutes.                                                                                                                                                   
+Epoch [87/300], Train Loss: 0.8108, Train Acc: 99.94%, Val Loss: 0.8518, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 88 completed in 1.3426 minutes.                                                                                                                                                   
+Epoch [88/300], Train Loss: 0.8107, Train Acc: 99.96%, Val Loss: 0.8612, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 89 completed in 1.2887 minutes.                                                                                                                                                   
+Epoch [89/300], Train Loss: 0.8100, Train Acc: 99.90%, Val Loss: 0.8659, Val Accuracy: 98.34%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.19% (178/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 99.33% (149/150)
+Epoch 90 completed in 1.2247 minutes.                                                                                                                                                   
+Epoch [90/300], Train Loss: 0.8100, Train Acc: 99.96%, Val Loss: 0.8631, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 91 completed in 1.3698 minutes.                                                                                                                                                   
+Epoch [91/300], Train Loss: 0.8087, Train Acc: 99.98%, Val Loss: 0.8621, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 92 completed in 1.3582 minutes.                                                                                                                                                   
+Epoch [92/300], Train Loss: 0.8095, Train Acc: 99.92%, Val Loss: 0.8566, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.19% (178/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 93 completed in 1.2723 minutes.                                                                                                                                                   
+Epoch [93/300], Train Loss: 0.8085, Train Acc: 99.98%, Val Loss: 0.8621, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 94 completed in 1.3348 minutes.                                                                                                                                                   
+Epoch [94/300], Train Loss: 0.8071, Train Acc: 99.92%, Val Loss: 0.8637, Val Accuracy: 98.62%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 100.00% (150/150)
+Epoch 95 completed in 1.3776 minutes.                                                                                                                                                   
+Epoch [95/300], Train Loss: 0.8074, Train Acc: 100.00%, Val Loss: 0.8691, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 96 completed in 1.4516 minutes.                                                                                                                                                   
+Epoch [96/300], Train Loss: 0.8074, Train Acc: 99.96%, Val Loss: 0.8562, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 97 completed in 1.3900 minutes.                                                                                                                                                   
+Epoch [97/300], Train Loss: 0.8083, Train Acc: 99.90%, Val Loss: 0.8584, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 98 completed in 1.3708 minutes.                                                                                                                                                   
+Epoch [98/300], Train Loss: 0.8067, Train Acc: 99.94%, Val Loss: 0.8599, Val Accuracy: 98.62%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 99.33% (149/150)
+Epoch 99 completed in 1.3716 minutes.                                                                                                                                                   
+Epoch [99/300], Train Loss: 0.8062, Train Acc: 100.00%, Val Loss: 0.8600, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 100 completed in 1.3638 minutes.                                                                                                                                                  
+Epoch [100/300], Train Loss: 0.8054, Train Acc: 99.98%, Val Loss: 0.8558, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 101 completed in 1.2269 minutes.                                                                                                                                                  
+Epoch [101/300], Train Loss: 0.8064, Train Acc: 99.94%, Val Loss: 0.8565, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 102 completed in 1.2375 minutes.                                                                                                                                                  
+Epoch [102/300], Train Loss: 0.8046, Train Acc: 100.00%, Val Loss: 0.8522, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 103 completed in 1.2327 minutes.                                                                                                                                                  
+Epoch [103/300], Train Loss: 0.8063, Train Acc: 99.98%, Val Loss: 0.8610, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 104 completed in 1.3532 minutes.                                                                                                                                                  
+Epoch [104/300], Train Loss: 0.8057, Train Acc: 99.96%, Val Loss: 0.8636, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 105 completed in 1.2312 minutes.                                                                                                                                                  
+Epoch [105/300], Train Loss: 0.8051, Train Acc: 99.96%, Val Loss: 0.8486, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 98.67% (148/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 106 completed in 1.2723 minutes.                                                                                                                                                  
+Epoch [106/300], Train Loss: 0.8067, Train Acc: 99.98%, Val Loss: 0.8560, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 107 completed in 1.2387 minutes.                                                                                                                                                  
+Epoch [107/300], Train Loss: 0.8045, Train Acc: 99.96%, Val Loss: 0.8507, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 108 completed in 1.2551 minutes.                                                                                                                                                  
+Epoch [108/300], Train Loss: 0.8040, Train Acc: 99.92%, Val Loss: 0.8506, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 109 completed in 1.2714 minutes.                                                                                                                                                  
+Epoch [109/300], Train Loss: 0.8042, Train Acc: 99.96%, Val Loss: 0.8495, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 110 completed in 1.3568 minutes.                                                                                                                                                  
+Epoch [110/300], Train Loss: 0.8032, Train Acc: 100.00%, Val Loss: 0.8512, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 111 completed in 1.3512 minutes.                                                                                                                                                  
+Epoch [111/300], Train Loss: 0.8048, Train Acc: 99.94%, Val Loss: 0.8631, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 100.00% (150/150)
+Epoch 112 completed in 1.2698 minutes.                                                                                                                                                  
+Epoch [112/300], Train Loss: 0.8036, Train Acc: 100.00%, Val Loss: 0.8600, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 113 completed in 1.2753 minutes.                                                                                                                                                  
+Epoch [113/300], Train Loss: 0.8044, Train Acc: 100.00%, Val Loss: 0.8510, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 114 completed in 1.2638 minutes.                                                                                                                                                  
+Epoch [114/300], Train Loss: 0.8042, Train Acc: 99.98%, Val Loss: 0.8667, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 115 completed in 1.2610 minutes.                                                                                                                                                  
+Epoch [115/300], Train Loss: 0.8025, Train Acc: 99.98%, Val Loss: 0.8580, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 116 completed in 1.2568 minutes.                                                                                                                                                  
+Epoch [116/300], Train Loss: 0.8034, Train Acc: 99.98%, Val Loss: 0.8638, Val Accuracy: 98.62%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 100.00% (150/150)
+Epoch 117 completed in 1.2581 minutes.                                                                                                                                                  
+Epoch [117/300], Train Loss: 0.8044, Train Acc: 99.94%, Val Loss: 0.8556, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 118 completed in 1.2913 minutes.                                                                                                                                                  
+Epoch [118/300], Train Loss: 0.8030, Train Acc: 100.00%, Val Loss: 0.8562, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 119 completed in 1.2810 minutes.                                                                                                                                                  
+Epoch [119/300], Train Loss: 0.8017, Train Acc: 99.98%, Val Loss: 0.8629, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 120 completed in 1.2336 minutes.                                                                                                                                                  
+Epoch [120/300], Train Loss: 0.8034, Train Acc: 99.98%, Val Loss: 0.8507, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 121 completed in 1.2152 minutes.                                                                                                                                                  
+Epoch [121/300], Train Loss: 0.8022, Train Acc: 99.98%, Val Loss: 0.8555, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 122 completed in 1.2205 minutes.                                                                                                                                                  
+Epoch [122/300], Train Loss: 0.8012, Train Acc: 100.00%, Val Loss: 0.8492, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 123 completed in 1.2281 minutes.                                                                                                                                                  
+Epoch [123/300], Train Loss: 0.8008, Train Acc: 99.96%, Val Loss: 0.8623, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 124 completed in 1.2791 minutes.                                                                                                                                                  
+Epoch [124/300], Train Loss: 0.8008, Train Acc: 100.00%, Val Loss: 0.8581, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 125 completed in 1.2351 minutes.                                                                                                                                                  
+Epoch [125/300], Train Loss: 0.8017, Train Acc: 99.98%, Val Loss: 0.8624, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 126 completed in 1.2113 minutes.                                                                                                                                                  
+Epoch [126/300], Train Loss: 0.8011, Train Acc: 99.96%, Val Loss: 0.8496, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 127 completed in 1.2153 minutes.                                                                                                                                                  
+Epoch [127/300], Train Loss: 0.8008, Train Acc: 100.00%, Val Loss: 0.8576, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 100.00% (150/150)
+Epoch 128 completed in 1.2171 minutes.
+Epoch [128/300], Train Loss: 0.8008, Train Acc: 100.00%, Val Loss: 0.8498, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 129 completed in 1.2151 minutes.                                                                                                                                                  
+Epoch [129/300], Train Loss: 0.8012, Train Acc: 99.98%, Val Loss: 0.8572, Val Accuracy: 98.71%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 95.72% (179/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 130/300 [Training]:   1%|▊                                                                | 2/159 [00:00<01:04,  2.43it/s, loss=0.8218, training_mflops_per_sample=3417.85190400]
+    wavernn: 99.33% (149/150)
+Epoch 173 completed in 1.3417 minutes.                                                                                                                                                  
+Epoch [173/300], Train Loss: 0.7943, Train Acc: 100.00%, Val Loss: 0.8461, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 174 completed in 1.3706 minutes.                                                                                                                                                  
+Epoch [174/300], Train Loss: 0.7951, Train Acc: 100.00%, Val Loss: 0.8690, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 175 completed in 1.2881 minutes.                                                                                                                                                  
+Epoch [175/300], Train Loss: 0.7946, Train Acc: 99.98%, Val Loss: 0.8671, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 176 completed in 1.3408 minutes.                                                                                                                                                  
+Epoch [176/300], Train Loss: 0.7940, Train Acc: 100.00%, Val Loss: 0.8552, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 177 completed in 1.2513 minutes.                                                                                                                                                  
+Epoch [177/300], Train Loss: 0.7940, Train Acc: 100.00%, Val Loss: 0.8542, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 178 completed in 1.3044 minutes.                                                                                                                                                  
+Epoch [178/300], Train Loss: 0.7948, Train Acc: 100.00%, Val Loss: 0.8846, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 179 completed in 1.3692 minutes.                                                                                                                                                  
+Epoch [179/300], Train Loss: 0.7938, Train Acc: 100.00%, Val Loss: 0.8625, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 180 completed in 1.3373 minutes.                                                                                                                                                  
+Epoch [180/300], Train Loss: 0.7942, Train Acc: 99.98%, Val Loss: 0.8590, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 181 completed in 1.3082 minutes.                                                                                                                                                  
+Epoch [181/300], Train Loss: 0.7935, Train Acc: 100.00%, Val Loss: 0.8582, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 182 completed in 1.3787 minutes.                                                                                                                                                  
+Epoch [182/300], Train Loss: 0.7941, Train Acc: 100.00%, Val Loss: 0.8678, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 183 completed in 1.3447 minutes.                                                                                                                                                  
+Epoch [183/300], Train Loss: 0.7937, Train Acc: 100.00%, Val Loss: 0.8710, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 184 completed in 1.3355 minutes.                                                                                                                                                  
+Epoch [184/300], Train Loss: 0.7934, Train Acc: 100.00%, Val Loss: 0.8663, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 185 completed in 1.3093 minutes.                                                                                                                                                  
+Epoch [185/300], Train Loss: 0.7940, Train Acc: 100.00%, Val Loss: 0.8728, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 186 completed in 1.3209 minutes.                                                                                                                                                  
+Epoch [186/300], Train Loss: 0.7936, Train Acc: 100.00%, Val Loss: 0.8670, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 187 completed in 1.2943 minutes.                                                                                                                                                  
+Epoch [187/300], Train Loss: 0.7931, Train Acc: 100.00%, Val Loss: 0.8731, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 188 completed in 1.3570 minutes.                                                                                                                                                  
+Epoch [188/300], Train Loss: 0.7929, Train Acc: 99.98%, Val Loss: 0.8590, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 189 completed in 1.3653 minutes.                                                                                                                                                  
+Epoch [189/300], Train Loss: 0.7938, Train Acc: 100.00%, Val Loss: 0.8524, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 99.33% (149/150)
+Epoch 190 completed in 1.3587 minutes.                                                                                                                                                  
+Epoch [190/300], Train Loss: 0.7931, Train Acc: 99.98%, Val Loss: 0.8680, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 191 completed in 1.4872 minutes.                                                                                                                                                  
+Epoch [191/300], Train Loss: 0.7931, Train Acc: 100.00%, Val Loss: 0.8520, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 192 completed in 1.5648 minutes.                                                                                                                                                  
+Epoch [192/300], Train Loss: 0.7920, Train Acc: 100.00%, Val Loss: 0.8602, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 193 completed in 1.5665 minutes.                                                                                                                                                  
+Epoch [193/300], Train Loss: 0.7919, Train Acc: 100.00%, Val Loss: 0.8870, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 194 completed in 1.4415 minutes.                                                                                                                                                  
+Epoch [194/300], Train Loss: 0.7926, Train Acc: 100.00%, Val Loss: 0.8549, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 195 completed in 1.3860 minutes.                                                                                                                                                  
+Epoch [195/300], Train Loss: 0.7931, Train Acc: 100.00%, Val Loss: 0.8594, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 196 completed in 1.3919 minutes.                                                                                                                                                  
+Epoch [196/300], Train Loss: 0.7932, Train Acc: 100.00%, Val Loss: 0.8801, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 94.67% (142/150)
+    wavernn: 100.00% (150/150)
+Epoch 197 completed in 1.2756 minutes.                                                                                                                                                  
+Epoch [197/300], Train Loss: 0.7918, Train Acc: 100.00%, Val Loss: 0.8732, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 198 completed in 1.2682 minutes.                                                                                                                                                  
+Epoch [198/300], Train Loss: 0.7916, Train Acc: 100.00%, Val Loss: 0.8640, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 199 completed in 1.3450 minutes.                                                                                                                                                  
+Epoch [199/300], Train Loss: 0.7930, Train Acc: 99.96%, Val Loss: 0.8622, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 200 completed in 1.4527 minutes.                                                                                                                                                  
+Epoch [200/300], Train Loss: 0.7922, Train Acc: 100.00%, Val Loss: 0.8656, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 201 completed in 1.4854 minutes.                                                                                                                                                  
+Epoch [201/300], Train Loss: 0.7923, Train Acc: 100.00%, Val Loss: 0.8633, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 202 completed in 1.4217 minutes.                                                                                                                                                  
+Epoch [202/300], Train Loss: 0.7921, Train Acc: 100.00%, Val Loss: 0.8650, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 203 completed in 1.3564 minutes.                                                                                                                                                  
+Epoch [203/300], Train Loss: 0.7907, Train Acc: 100.00%, Val Loss: 0.8711, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 204 completed in 1.3666 minutes.                                                                                                                                                  
+Epoch [204/300], Train Loss: 0.7919, Train Acc: 100.00%, Val Loss: 0.8716, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 205 completed in 1.3482 minutes.                                                                                                                                                  
+Epoch [205/300], Train Loss: 0.7918, Train Acc: 100.00%, Val Loss: 0.8798, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 206 completed in 1.3815 minutes.                                                                                                                                                  
+Epoch [206/300], Train Loss: 0.7919, Train Acc: 100.00%, Val Loss: 0.8624, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 207 completed in 1.3469 minutes.                                                                                                                                                  
+Epoch [207/300], Train Loss: 0.7917, Train Acc: 100.00%, Val Loss: 0.8845, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 99.33% (149/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 208 completed in 1.2953 minutes.                                                                                                                                                  
+Epoch [208/300], Train Loss: 0.7918, Train Acc: 100.00%, Val Loss: 0.8688, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 209 completed in 1.3383 minutes.                                                                                                                                                  
+Epoch [209/300], Train Loss: 0.7914, Train Acc: 100.00%, Val Loss: 0.8550, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 210 completed in 1.3041 minutes.                                                                                                                                                  
+Epoch [210/300], Train Loss: 0.7916, Train Acc: 100.00%, Val Loss: 0.8670, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 211 completed in 1.2169 minutes.                                                                                                                                                  
+Epoch [211/300], Train Loss: 0.7913, Train Acc: 100.00%, Val Loss: 0.8672, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 212 completed in 1.2079 minutes.                                                                                                                                                  
+Epoch [212/300], Train Loss: 0.7914, Train Acc: 100.00%, Val Loss: 0.8653, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 213 completed in 1.2069 minutes.                                                                                                                                                  
+Epoch [213/300], Train Loss: 0.7915, Train Acc: 100.00%, Val Loss: 0.8561, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 214 completed in 1.2289 minutes.                                                                                                                                                  
+Epoch [214/300], Train Loss: 0.7909, Train Acc: 100.00%, Val Loss: 0.8640, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 215 completed in 1.2416 minutes.                                                                                                                                                  
+Epoch [215/300], Train Loss: 0.7911, Train Acc: 100.00%, Val Loss: 0.8517, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 216 completed in 1.2413 minutes.                                                                                                                                                  
+Epoch [216/300], Train Loss: 0.7908, Train Acc: 100.00%, Val Loss: 0.8673, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 217 completed in 1.2015 minutes.                                                                                                                                                  
+Epoch [217/300], Train Loss: 0.7902, Train Acc: 100.00%, Val Loss: 0.8752, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 218 completed in 1.1989 minutes.                                                                                                                                                  
+Epoch [218/300], Train Loss: 0.7911, Train Acc: 99.98%, Val Loss: 0.8833, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 219 completed in 1.2152 minutes.                                                                                                                                                  
+Epoch [219/300], Train Loss: 0.7913, Train Acc: 100.00%, Val Loss: 0.8674, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 220 completed in 1.2140 minutes.                                                                                                                                                  
+Epoch [220/300], Train Loss: 0.7912, Train Acc: 100.00%, Val Loss: 0.8732, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 221 completed in 1.2118 minutes.                                                                                                                                                  
+Epoch [221/300], Train Loss: 0.7913, Train Acc: 100.00%, Val Loss: 0.8804, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 222 completed in 1.2057 minutes.                                                                                                                                                  
+Epoch [222/300], Train Loss: 0.7909, Train Acc: 100.00%, Val Loss: 0.8808, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 223 completed in 1.2164 minutes.                                                                                                                                                  
+Epoch [223/300], Train Loss: 0.7904, Train Acc: 100.00%, Val Loss: 0.8583, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 224 completed in 1.2195 minutes.                                                                                                                                                  
+Epoch [224/300], Train Loss: 0.7908, Train Acc: 100.00%, Val Loss: 0.8611, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 225 completed in 1.2047 minutes.                                                                                                                                                  
+Epoch [225/300], Train Loss: 0.7906, Train Acc: 100.00%, Val Loss: 0.8710, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 226 completed in 1.2214 minutes.                                                                                                                                                  
+Epoch [226/300], Train Loss: 0.7901, Train Acc: 100.00%, Val Loss: 0.8706, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 227 completed in 1.2418 minutes.                                                                                                                                                  
+Epoch [227/300], Train Loss: 0.7904, Train Acc: 100.00%, Val Loss: 0.8756, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 228 completed in 1.2458 minutes.                                                                                                                                                  
+Epoch [228/300], Train Loss: 0.7908, Train Acc: 100.00%, Val Loss: 0.8693, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 229 completed in 1.2144 minutes.                                                                                                                                                  
+Epoch [229/300], Train Loss: 0.7896, Train Acc: 100.00%, Val Loss: 0.8710, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 230 completed in 1.2121 minutes.                                                                                                                                                  
+Epoch [230/300], Train Loss: 0.7896, Train Acc: 100.00%, Val Loss: 0.8739, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 95.33% (143/150)
+    wavernn: 100.00% (150/150)
+Epoch 231 completed in 1.2366 minutes.                                                                                                                                                  
+Epoch [231/300], Train Loss: 0.7902, Train Acc: 100.00%, Val Loss: 0.8594, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 232 completed in 1.2131 minutes.                                                                                                                                                  
+Epoch [232/300], Train Loss: 0.7895, Train Acc: 100.00%, Val Loss: 0.8625, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 98.40% (184/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 233 completed in 1.2144 minutes.                                                                                                                                                  
+Epoch [233/300], Train Loss: 0.7894, Train Acc: 100.00%, Val Loss: 0.8577, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 234 completed in 1.2291 minutes.                                                                                                                                                  
+Epoch [234/300], Train Loss: 0.7909, Train Acc: 99.98%, Val Loss: 0.8520, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 235 completed in 1.2173 minutes.                                                                                                                                                  
+Epoch [235/300], Train Loss: 0.7892, Train Acc: 100.00%, Val Loss: 0.8688, Val Accuracy: 99.45%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 236 completed in 1.2134 minutes.                                                                                                                                                  
+Epoch [236/300], Train Loss: 0.7896, Train Acc: 100.00%, Val Loss: 0.8671, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 237 completed in 1.2109 minutes.                                                                                                                                                  
+Epoch [237/300], Train Loss: 0.7893, Train Acc: 100.00%, Val Loss: 0.8663, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 238 completed in 1.2241 minutes.                                                                                                                                                  
+Epoch [238/300], Train Loss: 0.7892, Train Acc: 100.00%, Val Loss: 0.8727, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 99.33% (149/150)
+Epoch 239 completed in 1.2421 minutes.                                                                                                                                                  
+Epoch [239/300], Train Loss: 0.7894, Train Acc: 100.00%, Val Loss: 0.8726, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 240 completed in 1.2661 minutes.                                                                                                                                                  
+Epoch [240/300], Train Loss: 0.7903, Train Acc: 99.96%, Val Loss: 0.8648, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 241 completed in 1.2454 minutes.                                                                                                                                                  
+Epoch [241/300], Train Loss: 0.7899, Train Acc: 100.00%, Val Loss: 0.8586, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 99.33% (149/150)
+Epoch 242 completed in 1.2266 minutes.                                                                                                                                                  
+Epoch [242/300], Train Loss: 0.7895, Train Acc: 100.00%, Val Loss: 0.8599, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 243 completed in 1.2725 minutes.                                                                                                                                                  
+Epoch [243/300], Train Loss: 0.7891, Train Acc: 100.00%, Val Loss: 0.8729, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 244 completed in 1.3321 minutes.
+Epoch [244/300], Train Loss: 0.7892, Train Acc: 100.00%, Val Loss: 0.8691, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 245 completed in 1.4067 minutes.                                                                                                                                                  
+Epoch [245/300], Train Loss: 0.7891, Train Acc: 100.00%, Val Loss: 0.8721, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 246 completed in 1.3362 minutes.                                                                                                                                                  
+Epoch [246/300], Train Loss: 0.7890, Train Acc: 100.00%, Val Loss: 0.8788, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 247 completed in 1.3050 minutes.
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 248/300 [Training]:  13%|████████▍                                                       | 21/159 [00:08<01:0Epoch 248/300 [Training]:  13%|████████▍                                                       | 21/159 [00:09<01:0Epoch 248/300 [Training]:  14%|████████▊                                                       | 22/159 [00:09<01:00,  2.25it/s, loss=0.7961, training_mflops_per_sample=3417.8519Epoch 248/300 [Training]:  14%|████████▊                            
+                           | 22/159 [00:09<01:00,  2.25it/s, loss=0.Epoch 248/300 [Training]:  14%|█████████▎                           
+                           | 23/159 [00:09<01:01,  2.22it/s, loss=0.Epoch 248/300 [Training]:  14%|█████████▎                           
+                           | 23/159 [00:10<01:01,  2.22it/s, loss=0.Epoch 248/300 [Training]:  15%|█████████▋                           
+                           | 24/159 [00:10<01:02,  2.16it/s, loss=0.Epoch 248/300 [Training]:  15%|█████████▋                           
+                           | 24/159 [00:10<01:02,  2.16it/s, loss=0.Epoch 248/300 [Training]:  16%|██████████                           
+                           | 25/159 [00:10<01:00,  2.20it/s, loss=0.Epoch 248/300 [Training]:  16%|██████████                           
+                           | 25/159 [00:11<01:00,  2.20it/s, loss=0.Epoch 248/300 [Training]:  16%|██████████▍                          
+                           | 26/159 [00:11<00:59,  2.25it/s, loss=0.Epoch 248/300 [Training]:  16%|██████████▍                          
+                           | 26/159 [00:11<00:59,  2.25it/s, loss=0.Epoch 248/300 [Training]:  17%|██████████▊                          
+                           | 27/159 [00:11<00:56,  2.33it/s, loss=0.Epoch 248/300 [Training]:  17%|██████████▊                          
+                           | 27/159 [00:12<00:56,  2.33it/s, loss=0.Epoch 248/300 [Training]:  18%|███████████▎                         
+                           | 28/159 [00:12<00:55,  2.34it/s, loss=0.Epoch 248/300 [Training]:  18%|███████████▎                                                    | 28/159 [00:12<00:55,  2.34it/s, loss=0.Epoch 248/300 [Training]:  18%|███████████▋                                                    | 29/159 [00:12<00:53,  2.42it/s, loss=0.Epoch 248/300 [Training]:  18%|███████████▋                                                    | 29/159 [00:12<00:53,  2.42it/s, loss=0.Epoch 248/300 [Training]:  19%|████████████                                                    | 30/159 [00:12<00:53,  2.42it/s, loss=0.Epoch 248/300 [Training]:  19%|████████████                                                    | 30/159 [00:13<00:53,  2.42it/s, loss=0.Epoch 248/300 [Training]:  19%|████████████▍                                                   | 31/159 [00:13<00:52,  2.42it/s, loss=0.Epoch 248/300 [Training]:  19%|████████████▍                                                   | 31/159 [00:13<00:52,  2.42it/s, loss=0.Epoch 248/300 [Training]:  20%|████████████▉                                                   | 32/159 [00:13<00:53,  2.39it/s, loss=0.Epoch 248/300 [Training]:  20%|████████████▉                                                   | 32/159 [00:14<00:53,  2.39it/s, loss=0.Epoch 248/300 [Training]:  21%|█████████████▎                                                  | 33/159 [00:14<00:54,  2.30it/s, loss=0.Epoch 248/300 [Training]:  21%|█████████████▎                                                  | 33/159 [00:14<00:54,  2.30it/s, loss=0.Epoch 248/300 [Training]:  21%|█████████████▋                                                  | 34/159 [00:14<00:53,  2.33it/s, loss=0.Epoch 248/300 [Training]:  21%|█████████████▋                                                  | 34/159 [00:15<00:53,  2.33it/s, loss=0.Epoch 248/300 [Training]:  22%|██████████████                                                  | 35/159 [00:15<00:52,  2.35it/s, loss=0.Epoch 248/300 [Training]:  22%|██████████████                                                  | 35/159 [00:15<00:52,  2.35it/s, loss=0.Epoch 248/300 [Training]:  23%|██████████████▍                                                 | 36/159 [00:15<00:51,  2.40it/s, loss=0.Epoch 248/300 [Training]:  23%|██████████████▍                                                 | 36/159 [00:15<00:51,  2.40it/s, loss=0.Epoch 248/300 [Training]:  23%|██████████████▉                                                 | 37/159 [00:15<00:51,  2.37it/s, loss=0.Epoch 248/300 [Training]:  23%|██████████████▉                                                 | 37/159 [00:16<00:51,  2.37it/s, loss=0.Epoch 248/300 [Training]:  24%|███████████████▎                                                | 38/159 [00:16<00:51,  2.35it/s, loss=0.Epoch 248/300 [Training]:  24%|███████████████▎                                                | 38/159 [00:16<00:51,  2.35it/s, loss=0.Epoch 248/300 [TrainEpoch 248/300 [Training]:  40%|█████████████████████████▎                                      | 63/159 [00:26<00:38,  2.51it/s, loss=0.7780, training_mflops_per_sample=3417.85190400]
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)                           
+Epoch [248/300], Train Loss: 0.7897, Train Acc: 100.00%, Val Loss: 0.8607, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 249 completed in 1.2811 minutes.                              
+Epoch [249/300], Train Loss: 0.7886, Train Acc: 100.00%, Val Loss: 0.8720, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 250 completed in 1.3152 minutes.                              
+Epoch [250/300], Train Loss: 0.7890, Train Acc: 100.00%, Val Loss: 0.8750, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 251 completed in 1.2945 minutes.
+Epoch [251/300], Train Loss: 0.7889, Train Acc: 100.00%, Val Loss: 0.8728, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 252 completed in 1.2558 minutes.
+Epoch [252/300], Train Loss: 0.7892, Train Acc: 99.98%, Val Loss: 0.8712, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 253 completed in 1.2823 minutes.                                                                                                                                                  
+Epoch [253/300], Train Loss: 0.7887, Train Acc: 100.00%, Val Loss: 0.8763, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 254 completed in 1.2771 minutes.                                                                                                                                                  
+Epoch [254/300], Train Loss: 0.7884, Train Acc: 99.98%, Val Loss: 0.8731, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 255 completed in 1.2653 minutes.                                                                                                                                                  
+Epoch [255/300], Train Loss: 0.7886, Train Acc: 100.00%, Val Loss: 0.8720, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 256 completed in 1.2155 minutes.                                                                                                                                                  
+Epoch [256/300], Train Loss: 0.7889, Train Acc: 100.00%, Val Loss: 0.8701, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 257 completed in 1.2139 minutes.                                                                                                                                                  
+Epoch [257/300], Train Loss: 0.7890, Train Acc: 100.00%, Val Loss: 0.8710, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 258 completed in 1.2128 minutes.                                                                                                                                                  
+Epoch [258/300], Train Loss: 0.7886, Train Acc: 100.00%, Val Loss: 0.8811, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 259 completed in 1.2163 minutes.                                                                                                                                                  
+Epoch [259/300], Train Loss: 0.7889, Train Acc: 100.00%, Val Loss: 0.8737, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 260 completed in 1.2156 minutes.                                                                                                                                                  
+Epoch [260/300], Train Loss: 0.7883, Train Acc: 100.00%, Val Loss: 0.8687, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 261 completed in 1.2178 minutes.                                                                                                                                                  
+Epoch [261/300], Train Loss: 0.7883, Train Acc: 100.00%, Val Loss: 0.8835, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 262 completed in 1.2123 minutes.                                                                                                                                                  
+Epoch [262/300], Train Loss: 0.7885, Train Acc: 100.00%, Val Loss: 0.8674, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 263 completed in 1.2430 minutes.                                                                                                                                                  
+Epoch [263/300], Train Loss: 0.7886, Train Acc: 100.00%, Val Loss: 0.8643, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 264 completed in 1.2498 minutes.                                                                                                                                                  
+Epoch [264/300], Train Loss: 0.7888, Train Acc: 100.00%, Val Loss: 0.8895, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 265 completed in 1.2656 minutes.                                                                                                                                                  
+Epoch [265/300], Train Loss: 0.7879, Train Acc: 99.98%, Val Loss: 0.8801, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 266 completed in 1.2611 minutes.                                                                                                                                                  
+Epoch [266/300], Train Loss: 0.7885, Train Acc: 100.00%, Val Loss: 0.8685, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 267 completed in 1.2662 minutes.                                                                                                                                                  
+Epoch [267/300], Train Loss: 0.7888, Train Acc: 100.00%, Val Loss: 0.8752, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 268 completed in 1.3162 minutes.                                                                                                                                                  
+Epoch [268/300], Train Loss: 0.7883, Train Acc: 100.00%, Val Loss: 0.8746, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 269 completed in 1.3061 minutes.                                                                                                                                                  
+Epoch [269/300], Train Loss: 0.7884, Train Acc: 100.00%, Val Loss: 0.8794, Val Accuracy: 98.90%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 99.33% (149/150)
+Epoch 270 completed in 1.3619 minutes.                                                                                                                                                  
+Epoch [270/300], Train Loss: 0.7887, Train Acc: 100.00%, Val Loss: 0.8682, Val Accuracy: 98.80%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.26% (180/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 271 completed in 1.3044 minutes.                                                                                                                                                  
+Epoch [271/300], Train Loss: 0.7876, Train Acc: 100.00%, Val Loss: 0.8645, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 272 completed in 1.3124 minutes.                                                                                                                                                  
+Epoch [272/300], Train Loss: 0.7874, Train Acc: 100.00%, Val Loss: 0.8788, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 273 completed in 1.2535 minutes.                                                                                                                                                  
+Epoch [273/300], Train Loss: 0.7876, Train Acc: 100.00%, Val Loss: 0.8810, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 274 completed in 1.2368 minutes.                                                                                                                                                  
+Epoch [274/300], Train Loss: 0.7883, Train Acc: 100.00%, Val Loss: 0.8696, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 275 completed in 1.2434 minutes.                                                                                                                                                  
+Epoch [275/300], Train Loss: 0.7876, Train Acc: 99.98%, Val Loss: 0.8664, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 276 completed in 1.2697 minutes.                                                                                                                                                  
+Epoch [276/300], Train Loss: 0.7878, Train Acc: 100.00%, Val Loss: 0.8666, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 277 completed in 1.2535 minutes.                                                                                                                                                  
+Epoch [277/300], Train Loss: 0.7882, Train Acc: 100.00%, Val Loss: 0.8783, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 278 completed in 1.2841 minutes.                                                                                                                                                  
+Epoch [278/300], Train Loss: 0.7873, Train Acc: 100.00%, Val Loss: 0.8820, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 279 completed in 1.3015 minutes.                                                                                                                                                  
+Epoch [279/300], Train Loss: 0.7874, Train Acc: 100.00%, Val Loss: 0.8667, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 280 completed in 1.2700 minutes.                                                                                                                                                  
+Epoch [280/300], Train Loss: 0.7881, Train Acc: 100.00%, Val Loss: 0.8734, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 281 completed in 1.2362 minutes.                                                                                                                                                  
+Epoch [281/300], Train Loss: 0.7877, Train Acc: 100.00%, Val Loss: 0.8707, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 282 completed in 1.2439 minutes.                                                                                                                                                  
+Epoch [282/300], Train Loss: 0.7874, Train Acc: 100.00%, Val Loss: 0.8855, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 283 completed in 1.2328 minutes.                                                                                                                                                  
+Epoch [283/300], Train Loss: 0.7876, Train Acc: 100.00%, Val Loss: 0.8769, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 284 completed in 1.2087 minutes.                                                                                                                                                  
+Epoch [284/300], Train Loss: 0.7876, Train Acc: 100.00%, Val Loss: 0.8843, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 285 completed in 1.2156 minutes.                                                                                                                                                  
+Epoch [285/300], Train Loss: 0.7868, Train Acc: 100.00%, Val Loss: 0.8828, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 100.00% (150/150)
+Epoch 286 completed in 1.2091 minutes.                                                                                                                                                  
+Epoch [286/300], Train Loss: 0.7880, Train Acc: 100.00%, Val Loss: 0.8878, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.00% (144/150)
+    wavernn: 100.00% (150/150)
+Epoch 287 completed in 1.2392 minutes.                                                                                                                                                  
+Epoch [287/300], Train Loss: 0.7872, Train Acc: 100.00%, Val Loss: 0.8803, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 288 completed in 1.2351 minutes.                                                                                                                                                  
+Epoch [288/300], Train Loss: 0.7874, Train Acc: 100.00%, Val Loss: 0.8642, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 289 completed in 1.2220 minutes.                                                                                                                                                  
+Epoch [289/300], Train Loss: 0.7875, Train Acc: 100.00%, Val Loss: 0.8690, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 290 completed in 1.2179 minutes.                                                                                                                                                  
+Epoch [290/300], Train Loss: 0.7868, Train Acc: 100.00%, Val Loss: 0.8854, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 291 completed in 1.2140 minutes.                                                                                                                                                  
+Epoch [291/300], Train Loss: 0.7872, Train Acc: 100.00%, Val Loss: 0.8700, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 292 completed in 1.2335 minutes.                                                                                                                                                  
+Epoch [292/300], Train Loss: 0.7874, Train Acc: 100.00%, Val Loss: 0.8765, Val Accuracy: 98.99%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 97.33% (146/150)
+    wavernn: 99.33% (149/150)
+Epoch 293 completed in 1.2419 minutes.                                                                                                                                                  
+Epoch [293/300], Train Loss: 0.7874, Train Acc: 100.00%, Val Loss: 0.8688, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 294 completed in 1.2275 minutes.                                                                                                                                                  
+Epoch [294/300], Train Loss: 0.7870, Train Acc: 100.00%, Val Loss: 0.8689, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 99.33% (149/150)
+Epoch 295 completed in 1.2278 minutes.                                                                                                                                                  
+Epoch [295/300], Train Loss: 0.7869, Train Acc: 100.00%, Val Loss: 0.8651, Val Accuracy: 99.26%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 296 completed in 1.2218 minutes.                                                                                                                                                  
+Epoch [296/300], Train Loss: 0.7875, Train Acc: 100.00%, Val Loss: 0.8625, Val Accuracy: 99.17%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 96.79% (181/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.00% (147/150)
+    wavernn: 100.00% (150/150)
+Epoch 297 completed in 1.2262 minutes.                                                                                                                                                  
+Epoch [297/300], Train Loss: 0.7877, Train Acc: 99.98%, Val Loss: 0.8796, Val Accuracy: 99.08%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 96.67% (145/150)
+    wavernn: 100.00% (150/150)
+Epoch 298 completed in 1.2201 minutes.                                                                                                                                                  
+Epoch [298/300], Train Loss: 0.7872, Train Acc: 100.00%, Val Loss: 0.8687, Val Accuracy: 99.45%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.86% (183/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 299 completed in 1.2146 minutes.                                                                                                                                                  
+Epoch [299/300], Train Loss: 0.7865, Train Acc: 100.00%, Val Loss: 0.8737, Val Accuracy: 99.36%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 98.67% (148/150)
+    wavernn: 100.00% (150/150)
+Epoch 300 completed in 1.2079 minutes.                                                                                                                                                  
+Epoch [300/300], Train Loss: 0.7867, Train Acc: 100.00%, Val Loss: 0.8753, Val Accuracy: 99.45%
+  Per-Class Validation Accuracy:
+    diffwave: 100.00% (150/150)
+    gt: 97.33% (182/187)
+    melgan: 100.00% (150/150)
+    parallel_wave_gan: 100.00% (150/150)
+    wavegrad: 100.00% (150/150)
+    wavenet: 99.33% (149/150)
+    wavernn: 100.00% (150/150)
+
+---------------------------- MiBiLSTM Training Complete ----------------------------
+
+
+=============================== Saving Model ===============================
+
+Model saved successfully to: /LibriSeVoc/MiBI_LSTM_V9.pth
+
+---------------------------- Model Save Complete ----------------------------
+
+
+=============================== Plotting Training Curves ===============================
+
+
+---------------------------- Training Curves Plotted ----------------------------
+
+
+=============================== Sample Count Diagramming ===============================
+
+ 
+---------------------------- Sample Count Diagramming Complete ----------------------------
+
+
+=============================== Optimizer, Loss Function, and Model Architecture ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V9.pth
+Model loaded successfully.
+
+Chosen Optimizer: <class 'torch.optim.adam.Adam'>
+Chosen Loss Function: CrossEntropyLoss()
+
+Number of Parameters (Gradients): 1646089
+Number of Parameters (All): 1646089
+
+Model Architecture: DeepFakeDetectorGraphsAndStats(
+  (_BatchLossAndOptimization__loss): CrossEntropyLoss()
+  (MiBiLSTM_1): MiBiLSTM(
+    (layers): ModuleList(
+      (0): ModuleDict(
+        (linear_fih): Linear(in_features=40, out_features=768, bias=True)
+        (dropout): Dropout(p=0.0, inplace=False)
+        (linear_fih_backward): Linear(in_features=40, out_features=768, bias=True)
+      )
+    )
+  )
+  (ReLU_1): PReLU(num_parameters=1)
+  (dropout1): Dropout(p=0.6, inplace=False)
+  (MiBiLSTM_2): MiBiLSTM(
+    (layers): ModuleList(
+      (0): ModuleDict(
+        (linear_fih): Linear(in_features=512, out_features=1536, bias=True)
+        (dropout): Dropout(p=0.0, inplace=False)
+        (linear_fih_backward): Linear(in_features=512, out_features=1536, bias=True)
+      )
+    )
+  )
+  (ReLU_2): PReLU(num_parameters=1)
+  (dropout2): Dropout(p=0.6, inplace=False)
+  (fc): Linear(in_features=1024, out_features=7, bias=True)
+)
+
+---------------------------- Optimizer, Loss Function, and Architecture Complete ----------------------------
+
+
+=============================== Evaluating Model on Test Set ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V9.pth
+Model loaded successfully.
+
+                                                                                                                                                                                        
+Test Results:
+  Average Loss: 0.8747
+  Overall Accuracy: 99.17% (1079/1088)
+
+Per-Class Accuracy:
+  diffwave: 100.00% (150/150)
+  gt: 96.28% (181/188)
+  melgan: 100.00% (150/150)
+  parallel_wave_gan: 100.00% (150/150)
+  wavegrad: 100.00% (150/150)
+  wavenet: 99.33% (149/150)
+  wavernn: 99.33% (149/150)
+
+---------------------------- Model Evaluation Complete ----------------------------
+
+
+=============================== Creating t-SNE Scatter Plot ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V9.pth
+Model loaded successfully.
+
+Generating Features for t-SNE Plot: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████| 34/34 [00:16<00:00,  2.02batch/s] 
+Feature shape: (1088, 1024)
+Applying t-SNE to reduce 1024 dimensions to 2D...
+
+---------------------------- t-SNE Scatter Plot Creation Complete ----------------------------
+
+
+=============================== Creating Confusion Matrix ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V9.pth
+Model loaded successfully.
+
+
+=============================== Setting Up Data Loaders ===============================
+
+Total dataset size: 7250 samples
+Split ratios - Train: 0.7, Valid: 0.15, Test: 0.15
+
+Class 'diffwave' (index 0) has 1000 samples.
+Class 'gt' (index 1) has 1250 samples.
+Class 'melgan' (index 2) has 1000 samples.
+Class 'parallel_wave_gan' (index 3) has 1000 samples.
+Class 'wavegrad' (index 4) has 1000 samples.
+Class 'wavenet' (index 5) has 1000 samples.
+Class 'wavernn' (index 6) has 1000 samples.
+
+Split sizes - Train: 5075, Valid: 1087, Test: 1088
+Training labels distribution: [700 875 700 700 700 700 700]
+Validation labels distribution: [150 187 150 150 150 150 150]
+Testing labels distribution: [150 188 150 150 150 150 150]
+
+Class weights (computed from training data):
+  Class 0 (diffwave, 700 samples): 1.0357
+  Class 1 (gt, 875 samples): 0.8286
+  Class 2 (melgan, 700 samples): 1.0357
+  Class 3 (parallel_wave_gan, 700 samples): 1.0357
+  Class 4 (wavegrad, 700 samples): 1.0357
+  Class 5 (wavenet, 700 samples): 1.0357
+  Class 6 (wavernn, 700 samples): 1.0357
+
+
+=============================== Fitting StandardScaler on Training Data ===============================
+
+Using 100 samples (out of 5075) for scaler fitting
+Fitting scaler on 4400 feature vectors (shape: (4400, 40))
+StandardScaler fitted on 100 training samples
+
+----------------------------- StandardScaler Fitting Complete ------------------------------
+
+DataLoaders created successfully!
+  Training batches: 159
+  Validation batches: 34
+  Testing batches: 34
+
+----------------------------- Data Loaders Setup Complete -----------------------------
+
+Generating Confusion Matrix: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 34/34 [00:12<00:00,  2.69batch/s] 
+
+---------------------------- Confusion Matrix Creation Complete ----------------------------
+
+
+=============================== Creating Classification Report ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V9.pth
+Model loaded successfully.
+
+Classification Report:
+
+                   precision    recall  f1-score   support
+
+         diffwave       0.99      1.00      1.00       150
+               gt       0.99      0.96      0.98       188
+           melgan       0.99      1.00      1.00       150
+parallel_wave_gan       0.99      1.00      1.00       150
+         wavegrad       0.99      1.00      1.00       150
+          wavenet       1.00      0.99      1.00       150
+          wavernn       0.98      0.99      0.99       150
+
+         accuracy                           0.99      1088
+        macro avg       0.99      0.99      0.99      1088
+     weighted avg       0.99      0.99      0.99      1088
+
+
+---------------------------- Classification Report Creation Complete ----------------------------
+
+
+=============================== Plotting ROC Curve with EER ===============================
+
+Loading model from: /LibriSeVoc/MiBI_LSTM_V9.pth
+Model loaded successfully.
+
+
+=============================== Setting Up Data Loaders ===============================
+
+Total dataset size: 7250 samples
+Split ratios - Train: 0.7, Valid: 0.15, Test: 0.15
+
+Class 'diffwave' (index 0) has 1000 samples.
+Class 'gt' (index 1) has 1250 samples.
+Class 'melgan' (index 2) has 1000 samples.
+Class 'parallel_wave_gan' (index 3) has 1000 samples.
+Class 'wavegrad' (index 4) has 1000 samples.
+Class 'wavenet' (index 5) has 1000 samples.
+Class 'wavernn' (index 6) has 1000 samples.
+
+Split sizes - Train: 5075, Valid: 1087, Test: 1088
+Training labels distribution: [700 875 700 700 700 700 700]
+Validation labels distribution: [150 187 150 150 150 150 150]
+Testing labels distribution: [150 188 150 150 150 150 150]
+
+Class weights (computed from training data):
+  Class 0 (diffwave, 700 samples): 1.0357
+  Class 1 (gt, 875 samples): 0.8286
+  Class 2 (melgan, 700 samples): 1.0357
+  Class 3 (parallel_wave_gan, 700 samples): 1.0357
+  Class 4 (wavegrad, 700 samples): 1.0357
+  Class 5 (wavenet, 700 samples): 1.0357
+  Class 6 (wavernn, 700 samples): 1.0357
+
+
+=============================== Fitting StandardScaler on Training Data ===============================
+
+Using 100 samples (out of 5075) for scaler fitting
+Fitting scaler on 4400 feature vectors (shape: (4400, 40))
+StandardScaler fitted on 100 training samples
+
+----------------------------- StandardScaler Fitting Complete ------------------------------
+
+DataLoaders created successfully!
+  Training batches: 159
+  Validation batches: 34
+  Testing batches: 34
+
+----------------------------- Data Loaders Setup Complete -----------------------------
+
+Generating ROC Predictions: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 34/34 [00:12<00:00,  2.81batch/s] 
+ROC Curve Statistics:
+--------------------------------------------
+  Area Under Curve (AUC): 0.9989
+  Equal Error Rate (EER): 0.0167 (1.67%)
+  EER Threshold: 0.8331
+--------------------------------------------
+
+---------------------------- ROC Curve with EER Complete ----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
