@@ -20,7 +20,7 @@ class DeepFakeDetectorGraphsAndStats(PyTorchDeepFakeDetectorMiBiLSTM):
             DL_type (str): Type of deep learning model to use.
             data_type (str): Type of data to use.
             two_class (bool): Whether to use two-class classification.
-            random_seed (int): Random seed for reproducibility.
+            random_seed (int): Random seed number for reproducibility.
 
         Returns:
             None
