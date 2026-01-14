@@ -1,3 +1,4 @@
 /.venv
 /__pycache__
 /.vs
+/Local_MiBi_LSTM_Version/test_cuda_vs_reference.py
