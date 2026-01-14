@@ -41,7 +41,7 @@ Then, you will need to download and unzip the LibreSeVoc Dataset (Warning: *very
 
 Finally, you will need to change the directory for main.py to scan to whatever directory you put the extracted folders in (Warning: it MUST be the directory which shows the folders for each individual class. Otherwise, the program WON'T know what to scan)
 
-However, I've also created a Google Colab Notebook (called MiBi-LSTM_Deepfake_Detector_Notebook.ipynb, coming in the next couple days, have a few edits to make to it) in case you want to run it without taking up any space on your computer (Note: The dataset and model state dictionary *will* need to take up space somewhere. I used Google Drive.)
+However, I've also created a Google Colab Notebook (called MiBi-LSTM_Deepfake_Detector_Notebook.ipynb) in case you want to run it without taking up any space on your computer (Note: The dataset and model state dictionary *will* need to take up space somewhere. I used Google Drive.)
 
 Again, in both cases, you'll need to change the directory of wherever you decide to put the extracted LibriSeVoc Dataset and Model State Dictionary for the program to function properly.
 
