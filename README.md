@@ -45,6 +45,11 @@ However, I've also created a Google Colab Notebook (called MiBi-LSTM_Deepfake_De
 
 Again, in both cases, you'll need to change the directory of wherever you decide to put the extracted LibriSeVoc Dataset and Model State Dictionary for the program to function properly.
 
+Preferably, you would download the dataset into a Drive directory and unzip it, then whenever a directory is called for within the setup code (should only be needed for main()), you would put "/parent_directory_here/LibriSeVoc/"
+You might also save a trained model to "/parent_directory_here/LibriSeVoc/model.pth" which won't mess up another run of the code, and then whenever you want to test a statistics function on the model, you would call once again
+"/parent_directory_here/LibriSeVoc/model.pth"
+
+
 ## Credits
 
 Huge thanks again to Chengzhe Sun, Shan Jia, Shuwei Hou, and Siwei Lyu, who created the dataset I used to train my model, as well as for being the major inspiration behind this project! You can view their paper and original project here:
